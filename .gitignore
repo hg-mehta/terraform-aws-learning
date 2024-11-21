@@ -1,0 +1,8 @@
+#Terraform
+.terraform/
+
+#Should Push to repo later
+.terraform.lock.hcl
+
+#IDE
+.idea/
