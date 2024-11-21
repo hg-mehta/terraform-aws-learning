@@ -1,5 +1,6 @@
 #Terraform
 .terraform/
+terraform.tfstate
 
 #Should Push to repo later
 .terraform.lock.hcl
